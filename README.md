@@ -1,3 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+一个示例命令行应用程序，入口文件位于 `bin/`，库代码位于 `lib/`，示例单元测试位于 `test/`。
 进行一个更改README.md的测试
